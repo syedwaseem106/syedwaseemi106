@@ -1,3 +1,34 @@
+
+
+
+I have uploaded a .zip file containing all the necessary project files and assets.
+Please extract the contents before running or editing the project.
+
+If you encounter any issues or have questions, feel free to reach out.
+
+✅ Instructions:
+
+Download the .zip file.
+
+Extract it to your desired location.
+
+Open the project folder to get started.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 🚀 3D Developer Portfolio
 
 A modern, animated 3D developer portfolio built with React, Three.js, TailwindCSS, and motion effects — designed to help you stand out and showcase your skills creatively.
